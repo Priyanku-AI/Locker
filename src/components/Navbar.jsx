@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav className='bg-purple-200 flex justify-between items-center px-4 h-24'>
+    <nav className='bg-purple-200 flex justify-between items-center px-4 h-14'>
       <div className="logo font-bold">Locker</div>
         <ul>
             <li className='flex gap-4'>
